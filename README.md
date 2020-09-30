@@ -18,3 +18,5 @@ Run Instructions
 1) pip install -r requirements.txt		# to install all the required dependencies
 2) python train_model.py				# to train the model on MNIST dataset using LENet architecture
 3) python predict.py --image <entire_path_to_image_to_be_predicted>       # pass the path of the image that has to be predicted as a command line argument (script will not work without the path)
+
+Finally output will be saved as output.jpg
